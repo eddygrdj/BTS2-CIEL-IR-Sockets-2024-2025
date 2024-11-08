@@ -12,5 +12,5 @@ L'usage des ces documents en dehors de la formation nommée ci-dessus est formel
 
 ## Sommaire
 
-* [Rappels de cours](./dockets.md)
+* [Rappels de cours](./sockets.md)
 * [TP Sockets](./TP_sockets.md)
